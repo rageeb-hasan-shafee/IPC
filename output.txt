@@ -1,0 +1,120 @@
+Operative 15 arrived at TS3 at time 9
+Operative 15 is waiting at TS3
+Operative 15 started document recreation at TS3 at time 9
+Operative 11 arrived at TS3 at time 9
+Operative 11 is waiting at TS3
+Operative 7 arrived at TS3 at time 9
+Operative 7 is waiting at TS3
+Operative 2 arrived at TS2 at time 9
+Operative 2 is waiting at TS2
+Operative 2 started document recreation at TS2 at time 9
+Operative 5 arrived at TS1 at time 9
+Operative 5 is waiting at TS1
+Operative 5 started document recreation at TS1 at time 9
+Operative 9 arrived at TS1 at time 9
+Operative 9 is waiting at TS1
+Operative 10 arrived at TS2 at time 9
+Operative 10 is waiting at TS2
+Operative 13 arrived at TS1 at time 10
+Operative 13 is waiting at TS1
+Operative 3 arrived at TS3 at time 10
+Operative 3 is waiting at TS3
+Operative 8 arrived at TS4 at time 10
+Operative 8 is waiting at TS4
+Operative 8 started document recreation at TS4 at time 10
+Operative 14 arrived at TS2 at time 10
+Operative 14 is waiting at TS2
+Operative 6 arrived at TS2 at time 10
+Operative 6 is waiting at TS2
+
+Intelligence Staff 1 began reviewing logbook at time 10. Operations completed = 0
+
+Operative 12 arrived at TS4 at time 10
+Operative 12 is waiting at TS4
+
+Intelligence Staff 2 began reviewing logbook at time 10. Operations completed = 0
+
+Operative 4 arrived at TS4 at time 10
+Operative 4 is waiting at TS4
+Operative 1 arrived at TS1 at time 10
+Operative 1 is waiting at TS1
+
+Intelligence Staff 1 finished reviewing logbook at time 13 (review took 3.00667 seconds)
+
+
+Intelligence Staff 2 finished reviewing logbook at time 13 (review took 3.0068 seconds)
+
+Operative 15 completed document recreation at time 19 (completion took 10.0158 seconds)
+Operative 11 started document recreation at TS3 at time 19
+Operative 2 completed document recreation at time 19 (completion took 10.0133 seconds)
+Operative 10 started document recreation at TS2 at time 19
+Operative 5 completed document recreation at time 19 (completion took 10.0176 seconds)
+Operative 9 started document recreation at TS1 at time 19
+Operative 8 completed document recreation at time 20 (completion took 10.0192 seconds)
+Operative 12 started document recreation at TS4 at time 20
+
+Intelligence Staff 1 began reviewing logbook at time 23. Operations completed = 0
+
+
+Intelligence Staff 2 began reviewing logbook at time 23. Operations completed = 0
+
+
+Intelligence Staff 1 finished reviewing logbook at time 26 (review took 3.00406 seconds)
+
+
+Intelligence Staff 2 finished reviewing logbook at time 26 (review took 3.00357 seconds)
+
+Operative 11 completed document recreation at time 29 (completion took 10.0135 seconds)
+Operative 7 started document recreation at TS3 at time 29
+Operative 10 completed document recreation at time 29 (completion took 10.014 seconds)
+Operative 14 started document recreation at TS2 at time 29
+Operative 9 completed document recreation at time 30 (completion took 10.0123 seconds)
+Operative 13 started document recreation at TS1 at time 30
+Operative 12 completed document recreation at time 30 (completion took 10.0125 seconds)
+Operative 4 started document recreation at TS4 at time 30
+
+Intelligence Staff 1 began reviewing logbook at time 36. Operations completed = 0
+
+
+Intelligence Staff 2 began reviewing logbook at time 36. Operations completed = 0
+
+
+Intelligence Staff 1 finished reviewing logbook at time 39 (review took 3.00422 seconds)
+
+
+Intelligence Staff 2 finished reviewing logbook at time 39 (review took 3.00549 seconds)
+
+Operative 7 completed document recreation at time 39 (completion took 10.0179 seconds)
+Operative 3 started document recreation at TS3 at time 39
+Operative 14 completed document recreation at time 40 (completion took 10.0179 seconds)
+Operative 6 started document recreation at TS2 at time 40
+Operative 13 completed document recreation at time 40 (completion took 10.0192 seconds)
+Unit 3 is requesting logbook access at time 40
+Unit 3 has started logbook entry at time 40
+Operative 1 started document recreation at TS1 at time 40
+Operative 4 completed document recreation at time 40 (completion took 10.0159 seconds)
+Unit 3 has completed intelligence distribution at time 43 . Operations completed = 1
+
+Intelligence Staff 2 began reviewing logbook at time 49. Operations completed = 1
+
+
+Intelligence Staff 1 began reviewing logbook at time 49. Operations completed = 1
+
+Operative 3 completed document recreation at time 49 (completion took 10.0175 seconds)
+Operative 6 completed document recreation at time 50 (completion took 10.0222 seconds)
+Unit 2 is requesting logbook access at time 50
+Operative 1 completed document recreation at time 50 (completion took 10.0203 seconds)
+Unit 1 is requesting logbook access at time 50
+
+Intelligence Staff 2 finished reviewing logbook at time 52 (review took 3.00736 seconds)
+
+
+Intelligence Staff 1 finished reviewing logbook at time 52 (review took 3.00696 seconds)
+
+Unit 2 has started logbook entry at time 52
+Unit 2 has completed intelligence distribution at time 55 . Operations completed = 2
+Unit 1 has started logbook entry at time 55
+Unit 1 has completed intelligence distribution at time 58 . Operations completed = 3
+Intelligence Staff 1 exiting at time 62
+Intelligence Staff 2 exiting at time 62
+Simulation completed successfully!
